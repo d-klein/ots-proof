@@ -16,8 +16,8 @@ How to run:
    and call the scripts of the proof score in 
    increasing order, like this:
 
-    input pace.mod
-    input invariants.mod
+input pace.mod
+input invariants.mod
 
    input proof100.mod
    input proof110.mod
