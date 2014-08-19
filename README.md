@@ -26,7 +26,7 @@ input proof110.mod
 input proof740.mod
 ```
 
-The proofs afterwards are split for perfomance reasons:
+   The proofs afterwards are split for perfomance reasons:
 
 ```
 input proof800.mod
