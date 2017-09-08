@@ -2,7 +2,7 @@ OTS-Proof
 =========
 
 This repository contains a CafeOBJ proof that is described in the paper
-[Key Secrecy of PACE with OTS/CafeOBJ](https://d-klein.github.io/ots-proof/blob/master/key_secrecy_of_pace.pdf).
+[Key Secrecy of PACE with OTS/CafeOBJ](https://d-klein.github.io).
 
 
 How to run:
